@@ -1,0 +1,22 @@
+
+export const ImagePaths = {
+    logoImage : require('../assets/images/shape.png'),
+    leftHexagon : require('../assets/images/hexagon.png'),
+    rightHexagon : require('../assets/images/rightHexagon.png'),
+    googleIcon : require('../assets/images/google.png'),
+    personAdd : require('../assets/images/personadd.png'),
+    home : require('../assets/images/home.png'),
+    todayTask : require('../assets/images/todaytask.png'),
+    monthlySchedule : require('../assets/images/monthlyschedule.png'),
+    notePencil : require('../assets/images/notepencil.png'),
+    filterslines : require('../assets/images/filterslines.png'),
+    homeIcon : require('../assets/images/homeicon.png'),
+    patientPic : require('../assets/images/patientpic.png'),
+    assignEpisode : require('../assets/images/assignepisode.png'),
+    docPreview : require('../assets/images/Group.png'),
+    signPreview : require('../assets/images/Sign.png'),
+    dashboardFrame : require('../assets/images/dashboardframe.png'),
+    cross : require('../assets/images/cross.png'),
+    check : require('../assets/images/check.png'),
+    man : require('../assets/images/man.jpeg'),
+}

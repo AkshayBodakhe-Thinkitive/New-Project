@@ -14,6 +14,20 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-NewProject-NewProjectTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-NewProject-NewProjectTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F46A53632AC2EB4A008C0368 /* Figtree-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ECC2AB9D5BE00741611 /* Figtree-Black.ttf */; };
+		F46A53642AC2EB4A008C0368 /* Figtree-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ECB2AB9D5BE00741611 /* Figtree-BlackItalic.ttf */; };
+		F46A53652AC2EB4A008C0368 /* Figtree-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3EC92AB9D5BE00741611 /* Figtree-Bold.ttf */; };
+		F46A53662AC2EB4A008C0368 /* Figtree-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ED02AB9D5BE00741611 /* Figtree-BoldItalic.ttf */; };
+		F46A53672AC2EB4A008C0368 /* Figtree-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3EC72AB9D5BD00741611 /* Figtree-ExtraBold.ttf */; };
+		F46A53682AC2EB4A008C0368 /* Figtree-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3EC52AB9D5BD00741611 /* Figtree-ExtraBoldItalic.ttf */; };
+		F46A53692AC2EB4A008C0368 /* Figtree-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ECA2AB9D5BE00741611 /* Figtree-Italic.ttf */; };
+		F46A536A2AC2EB4A008C0368 /* Figtree-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ED12AB9D5BE00741611 /* Figtree-Light.ttf */; };
+		F46A536B2AC2EB4A008C0368 /* Figtree-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ECD2AB9D5BE00741611 /* Figtree-LightItalic.ttf */; };
+		F46A536C2AC2EB4A008C0368 /* Figtree-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3EC82AB9D5BE00741611 /* Figtree-Medium.ttf */; };
+		F46A536D2AC2EB4A008C0368 /* Figtree-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ECF2AB9D5BE00741611 /* Figtree-MediumItalic.ttf */; };
+		F46A536E2AC2EB4A008C0368 /* Figtree-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ECE2AB9D5BE00741611 /* Figtree-Regular.ttf */; };
+		F46A536F2AC2EB4A008C0368 /* Figtree-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3EC62AB9D5BD00741611 /* Figtree-SemiBold.ttf */; };
+		F46A53702AC2EB4A008C0368 /* Figtree-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F46F3ED22AB9D5BE00741611 /* Figtree-SemiBoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,39 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = NewProject/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-NewProject-NewProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewProject-NewProjectTests.release.xcconfig"; path = "Target Support Files/Pods-NewProject-NewProjectTests/Pods-NewProject-NewProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F46F3EC52AB9D5BD00741611 /* Figtree-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-ExtraBoldItalic.ttf"; path = "../app/assets/fonts/Figtree-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		F46F3EC62AB9D5BD00741611 /* Figtree-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-SemiBold.ttf"; path = "../app/assets/fonts/Figtree-SemiBold.ttf"; sourceTree = "<group>"; };
+		F46F3EC72AB9D5BD00741611 /* Figtree-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-ExtraBold.ttf"; path = "../app/assets/fonts/Figtree-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F46F3EC82AB9D5BE00741611 /* Figtree-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-Medium.ttf"; path = "../app/assets/fonts/Figtree-Medium.ttf"; sourceTree = "<group>"; };
+		F46F3EC92AB9D5BE00741611 /* Figtree-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-Bold.ttf"; path = "../app/assets/fonts/Figtree-Bold.ttf"; sourceTree = "<group>"; };
+		F46F3ECA2AB9D5BE00741611 /* Figtree-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-Italic.ttf"; path = "../app/assets/fonts/Figtree-Italic.ttf"; sourceTree = "<group>"; };
+		F46F3ECB2AB9D5BE00741611 /* Figtree-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-BlackItalic.ttf"; path = "../app/assets/fonts/Figtree-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F46F3ECC2AB9D5BE00741611 /* Figtree-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-Black.ttf"; path = "../app/assets/fonts/Figtree-Black.ttf"; sourceTree = "<group>"; };
+		F46F3ECD2AB9D5BE00741611 /* Figtree-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-LightItalic.ttf"; path = "../app/assets/fonts/Figtree-LightItalic.ttf"; sourceTree = "<group>"; };
+		F46F3ECE2AB9D5BE00741611 /* Figtree-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-Regular.ttf"; path = "../app/assets/fonts/Figtree-Regular.ttf"; sourceTree = "<group>"; };
+		F46F3ECF2AB9D5BE00741611 /* Figtree-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-MediumItalic.ttf"; path = "../app/assets/fonts/Figtree-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F46F3ED02AB9D5BE00741611 /* Figtree-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-BoldItalic.ttf"; path = "../app/assets/fonts/Figtree-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F46F3ED12AB9D5BE00741611 /* Figtree-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-Light.ttf"; path = "../app/assets/fonts/Figtree-Light.ttf"; sourceTree = "<group>"; };
+		F46F3ED22AB9D5BE00741611 /* Figtree-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Figtree-SemiBoldItalic.ttf"; path = "../app/assets/fonts/Figtree-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		F4C6E09E2ABADF560026AFC7 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		F4C6E09F2ABADF560026AFC7 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf"; sourceTree = "<group>"; };
+		F4C6E0A02ABADF560026AFC7 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		F4C6E0A12ABADF560026AFC7 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		F4C6E0A22ABADF560026AFC7 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		F4C6E0A32ABADF560026AFC7 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		F4C6E0A42ABADF560026AFC7 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Brands.ttf"; sourceTree = "<group>"; };
+		F4C6E0A52ABADF560026AFC7 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		F4C6E0A62ABADF560026AFC7 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		F4C6E0A72ABADF560026AFC7 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		F4C6E0A82ABADF560026AFC7 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		F4C6E0A92ABADF570026AFC7 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		F4C6E0AA2ABADF570026AFC7 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		F4C6E0AB2ABADF570026AFC7 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		F4C6E0AC2ABADF570026AFC7 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		F4C6E0AD2ABADF570026AFC7 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		F4C6E0AE2ABADF570026AFC7 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf"; sourceTree = "<group>"; };
+		F4C6E0AF2ABADF570026AFC7 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		F4C6E0B02ABADF570026AFC7 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +163,39 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				F4C6E0A82ABADF560026AFC7 /* AntDesign.ttf */,
+				F4C6E0AA2ABADF570026AFC7 /* Entypo.ttf */,
+				F4C6E0A32ABADF560026AFC7 /* EvilIcons.ttf */,
+				F4C6E0AF2ABADF570026AFC7 /* Feather.ttf */,
+				F4C6E0A12ABADF560026AFC7 /* FontAwesome.ttf */,
+				F4C6E0AD2ABADF570026AFC7 /* FontAwesome5_Brands.ttf */,
+				F4C6E0AC2ABADF570026AFC7 /* FontAwesome5_Regular.ttf */,
+				F4C6E0A02ABADF560026AFC7 /* FontAwesome5_Solid.ttf */,
+				F4C6E0A42ABADF560026AFC7 /* FontAwesome6_Brands.ttf */,
+				F4C6E09F2ABADF560026AFC7 /* FontAwesome6_Regular.ttf */,
+				F4C6E0AE2ABADF570026AFC7 /* FontAwesome6_Solid.ttf */,
+				F4C6E09E2ABADF560026AFC7 /* Fontisto.ttf */,
+				F4C6E0A22ABADF560026AFC7 /* Foundation.ttf */,
+				F4C6E0A92ABADF570026AFC7 /* Ionicons.ttf */,
+				F4C6E0A52ABADF560026AFC7 /* MaterialCommunityIcons.ttf */,
+				F4C6E0A62ABADF560026AFC7 /* MaterialIcons.ttf */,
+				F4C6E0AB2ABADF570026AFC7 /* Octicons.ttf */,
+				F4C6E0A72ABADF560026AFC7 /* SimpleLineIcons.ttf */,
+				F4C6E0B02ABADF570026AFC7 /* Zocial.ttf */,
+				F46F3ECC2AB9D5BE00741611 /* Figtree-Black.ttf */,
+				F46F3ECB2AB9D5BE00741611 /* Figtree-BlackItalic.ttf */,
+				F46F3EC92AB9D5BE00741611 /* Figtree-Bold.ttf */,
+				F46F3ED02AB9D5BE00741611 /* Figtree-BoldItalic.ttf */,
+				F46F3EC72AB9D5BD00741611 /* Figtree-ExtraBold.ttf */,
+				F46F3EC52AB9D5BD00741611 /* Figtree-ExtraBoldItalic.ttf */,
+				F46F3ECA2AB9D5BE00741611 /* Figtree-Italic.ttf */,
+				F46F3ED12AB9D5BE00741611 /* Figtree-Light.ttf */,
+				F46F3ECD2AB9D5BE00741611 /* Figtree-LightItalic.ttf */,
+				F46F3EC82AB9D5BE00741611 /* Figtree-Medium.ttf */,
+				F46F3ECF2AB9D5BE00741611 /* Figtree-MediumItalic.ttf */,
+				F46F3ECE2AB9D5BE00741611 /* Figtree-Regular.ttf */,
+				F46F3EC62AB9D5BD00741611 /* Figtree-SemiBold.ttf */,
+				F46F3ED22AB9D5BE00741611 /* Figtree-SemiBoldItalic.ttf */,
 				13B07FAE1A68108700A75B9A /* NewProject */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* NewProjectTests */,
@@ -242,6 +322,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F46A53632AC2EB4A008C0368 /* Figtree-Black.ttf in Resources */,
+				F46A53642AC2EB4A008C0368 /* Figtree-BlackItalic.ttf in Resources */,
+				F46A53652AC2EB4A008C0368 /* Figtree-Bold.ttf in Resources */,
+				F46A53662AC2EB4A008C0368 /* Figtree-BoldItalic.ttf in Resources */,
+				F46A53672AC2EB4A008C0368 /* Figtree-ExtraBold.ttf in Resources */,
+				F46A53682AC2EB4A008C0368 /* Figtree-ExtraBoldItalic.ttf in Resources */,
+				F46A53692AC2EB4A008C0368 /* Figtree-Italic.ttf in Resources */,
+				F46A536A2AC2EB4A008C0368 /* Figtree-Light.ttf in Resources */,
+				F46A536B2AC2EB4A008C0368 /* Figtree-LightItalic.ttf in Resources */,
+				F46A536C2AC2EB4A008C0368 /* Figtree-Medium.ttf in Resources */,
+				F46A536D2AC2EB4A008C0368 /* Figtree-MediumItalic.ttf in Resources */,
+				F46A536E2AC2EB4A008C0368 /* Figtree-Regular.ttf in Resources */,
+				F46A536F2AC2EB4A008C0368 /* Figtree-SemiBold.ttf in Resources */,
+				F46A53702AC2EB4A008C0368 /* Figtree-SemiBoldItalic.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
@@ -486,6 +580,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UCDUTTBK96;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = NewProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -498,7 +593,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.--PRODUCT-NAME-rememberfc1034identifier-";
 				PRODUCT_NAME = NewProject;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -517,6 +612,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UCDUTTBK96;
 				INFOPLIST_FILE = NewProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -528,7 +624,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.--PRODUCT-NAME-rememberfc1034identifier-";
 				PRODUCT_NAME = NewProject;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -572,7 +668,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -645,7 +741,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;

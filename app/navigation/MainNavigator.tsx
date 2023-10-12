@@ -1,13 +1,15 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
+import { isTablet } from '../utils/DeviceInfo';
+import DrawerNavigator from './DrawerNavigator';
+import BottomNavigator from './BottomNavigator';
 
-const MainNavigator = ({navigation}: any) => {
+const MainNavigator = () => {
   return (
-    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-      <Text style={{color: 'black', marginVertical: 20}}>Home Screen</Text>
-      <Text onPress={() => navigation.navigate('Auth')} style={{color: 'blue'}}>
-        Logout
-      </Text>
+    <View style={{flex: 1}}>
+       {
+        isTablet ? <DrawerNavigator/> : <BottomNavigator/>
+       }
     </View>
   );
 };
